@@ -1,4 +1,4 @@
-sd<?php
+<?php
 $uploaddir = __DIR__ .'/www/local/files/';
 
 if($_GET['del']!=""){
